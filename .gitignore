@@ -1,0 +1,5 @@
+*.json
+!package.json
+!**/input.json
+node_modules
+**/*.sol
